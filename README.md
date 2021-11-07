@@ -1,5 +1,5 @@
 ### Hi I am Grijesh Saini 👋
-<a href='https://www.linkedin.com/in/grijesh-saini-99187740/'><img align='left' alt="linkedin" src="" height='18px'/></a>
+<a href='https://www.linkedin.com/in/grijesh-saini-99187740/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/grijeshsaini/grijeshsaini/main/images/linkedin.svg" height='18px'/></a>
 
 <!--
 **grijeshsaini/grijeshsaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
