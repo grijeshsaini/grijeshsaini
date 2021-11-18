@@ -1,4 +1,4 @@
-### Hi I am Grijesh Saini 👋
+### Hi I am Grijesh Saini.
 <a href='https://www.linkedin.com/in/grijesh-saini-99187740/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/grijeshsaini/grijeshsaini/main/images/linkedin.svg" height='18px'/></a>
 
 <!--
